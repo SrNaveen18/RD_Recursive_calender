@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_text">14sp</dimen>
+    <dimen name="sub_header_text">16sp</dimen>
+    <dimen name="header_text">30sp</dimen>
+    <dimen name="super_header_text">42sp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

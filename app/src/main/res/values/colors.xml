@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="next_previous_month_color">#cfcfcf</color>
+    <color name="current_month_color">#1d1d1d</color>
+    <color name="current_day_color">#ff1e22</color>
+
+    <color name="subcriptionDate">#8ab680</color>
+    <color name="passedSubcriptionDate">#bcceb8</color>
+    <color name="unSubcriptionDate">#ffffff</color>
+
+    <color name="pausedSubcription">#fcec73</color>
+</resources>
